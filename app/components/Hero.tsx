@@ -14,7 +14,7 @@ const Hero: FC<HeroProps> = ({ heroImage }) => {
           BE THE BEST PLAYER
         </h1>
         <p className="text-white font-bold">
-          Don't let your current PC hold you back.
+          Don't let your current PC hold you back
         </p>
         <button className="w-20 h-10 mt-10 text-white font-bold border ">
           Explore
