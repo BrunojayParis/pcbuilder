@@ -9,12 +9,12 @@ export default function Home() {
     <div className="bg-slate-700">
       <Nav logo={logo} />
       <Hero heroImage={hero} />
-      <Options
+      {/* <Options
         // javelin={javelin}
         // hellfire={hellfire}
         // tomahawk={tomahawk}
         // harpoon={harpoon} 
-      />
+      /> */}
 
     </div>
   );
