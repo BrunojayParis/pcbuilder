@@ -6,7 +6,7 @@ import "./globals.css";
 
 const inter = Roboto({
   subsets: ["latin"],
-  weight: "100"
+  weight: "400"
 });
 
 export const metadata: Metadata = {
